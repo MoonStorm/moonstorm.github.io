@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /index.html
-Disallow: /trNgGrid/index.html
-Disallow: /trNgGrid/beta/index.html
+Disallow: /
+Allow: /trNgGrid/release/index.html
