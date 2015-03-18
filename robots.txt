@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /trNgGrid/release/
+Allow: /trNgGrid/demo/
 Disallow: /
